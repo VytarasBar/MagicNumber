@@ -1,0 +1,7 @@
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\bin\Debug\MagicNumber.exe.config
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\bin\Debug\MagicNumber.exe
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\bin\Debug\MagicNumber.pdb
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\obj\Debug\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\obj\Debug\MagicNumber.exe
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\obj\Debug\MagicNumber.pdb
+C:\Users\joparasata\Desktop\Csharp\Lessons\MagicNumber\MagicNumber\obj\Debug\MagicNumber.csprojAssemblyReference.cache
